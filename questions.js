@@ -228,7 +228,7 @@ const questions = [
       "the mapping mode",
       "the contour mode"
     ],
-    correct: 0
+    correct: 2
   },
   {
     question: "When switching on the weather radar, after start-up a single very bright line appears on the screen. This means that the:",
